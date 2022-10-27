@@ -1,0 +1,40 @@
+body {
+    background-size: cover;
+}
+
+#Header {
+    height: fit-content;
+    width: 100%;
+}
+
+#Header h4 {
+    display: inline;
+}
+
+#Dropdown {
+    float: right;
+}
+
+.Name {
+    width: 425px;
+}
+
+.Name input {
+
+    border-bottom-left-radius: 0px;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius: 25px;
+    border-top-right-radius: 25px;
+
+    height: 34px;
+}
+.Name button{
+    border-bottom-right-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 25px;
+    border-top-left-radius: 25px;
+}
+#updates{
+    float: left;
+    margin-left: 25px;
+}
