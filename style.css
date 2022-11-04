@@ -38,3 +38,8 @@ body {
     float: left;
     margin-left: 25px;
 }
+canvas{
+    margin-top: 200px;
+    bottom: 0;
+    border-radius: 25px;
+}
